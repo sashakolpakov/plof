@@ -1,2 +1,3 @@
-# plof
+# PLoF: Polytope's Lower-dimensional Faces
+
 Computing facets of Coxeter polytopes (arXiv:2002.11445)
